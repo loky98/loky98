@@ -1,8 +1,8 @@
- Hi there 👋
+# Hi there 👋 
 
-### - 🔭 I’m currently working on design of my personal page to introduce my knowledge
-### - 🌱 I’m currently learning development whit swiftUI to disign apps in IOS and Bakend whit Node.JS
-### - ⚡ Fun fact: 
+## - 🔭 I’m currently working on design of my personal page to introduce my knowledge
+## - 🌱 I’m currently learning development whit swiftUI to disign apps in IOS and Bakend whit Node.JS
+## - ⚡ Fun fact: 
 ###  -I´m electronics tech looking for his first job in the programming 💻
 ###  -cycling fan 🚲
 
