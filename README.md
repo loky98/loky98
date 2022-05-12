@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on design of my personal page to introduce my knowledge
-- 🌱 I’m currently learning development whit swiftUI to disign apps in IOS and Bakend whit Node.JS
+### - 🔭 I’m currently working on design of my personal page to introduce my knowledge
+### - 🌱 I’m currently learning development whit swiftUI to disign apps in IOS and Bakend whit Node.JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
